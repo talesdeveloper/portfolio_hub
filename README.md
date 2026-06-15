@@ -1,1 +1,1 @@
-# portfolio_hub
+Atualizaçãp do PortfolioHUB com IA Gemini
